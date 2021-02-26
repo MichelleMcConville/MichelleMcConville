@@ -51,6 +51,8 @@
 <hr/>
 <h2 align="center">Projects:</h2><br />
 <p align="center">
+  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MichelleMcConville&repo=P1-camping-spot-finder)](https://github.com/MichelleMcConville/P2-tpoops)
 
 <a href="https://michellemcconville.github.io/P1-camping-spot-finder/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MichelleMcConville&repo=https://github.com/MichelleMcConville/P1-camping-spot-finder&theme=tokyonight" /></a>
