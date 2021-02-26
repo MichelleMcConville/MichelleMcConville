@@ -18,7 +18,7 @@
 
 * 📧 Hw to reach out to me [**eMail**](mailto:dev.mchel@gmail.com) me
 * :octocat: Check out more of my work on [**GitHub**](https://github.com/MichelleMcConville)
-<!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id) -->
+![visitors](https://visitor-badge.glitch.me/badge?MichelleMcConville.MichelleMcConville)
 
 <hr/>
 <h3 align="center">Languages and Tools:</h3>
@@ -56,10 +56,11 @@
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
 
 <hr/>
-<!--[![trophy](https://github-profile-trophy.vercel.app/?username=michellemcconville=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy) -->
-
-<hr/>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=michellemcconville&theme=juicyfresh" alt="michellemcconville" /></a> </p>
-
-<!--<p align="center"> https://github-profile-trophy.vercel.app/?michellemcconville=ryo-ma&theme=juicyfresh </p> -->
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=MichelleMcConville&theme=juicyfresh&margin-w=10&column=7" /></a> </p>
+  
+<hr/>
+<div>
+  <img height="170" align="center" src="https://github-readme-stats.vercel.app/api?username=MichelleMcConville&count_private=true&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichelleMcConville&layout=compact" />
+</div>
