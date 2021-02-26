@@ -1,5 +1,5 @@
 <h1 align="center"> Hi there 👋, I'm Michelle McConville </h1>
-<h3 align="center">Front-End developer</h3>
+<h3 align="center">Sr QA Engineer turned Full Stack Developer</h3>
 
 - 📧 Hw to reach out to me [**eMail**](mailto:dev.mchel@gmail.com)
 - :octocat: Check out more of my work on [**GitHub**](https://github.com/MichelleMcConville)
