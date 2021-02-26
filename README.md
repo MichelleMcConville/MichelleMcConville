@@ -1,9 +1,9 @@
 <h1 align="center"> Hi there 👋, I'm Michelle McConville </h1>
 <h3 align="center">Front-End developer</h3>
 
-<p align="center"> 📧 Hw to reach out to me [**eMail**](mailto:dev.mchel@gmail.com) </p>
-<p align="center"> :octocat: Check out more of my work on [**GitHub**](https://github.com/MichelleMcConville) </p>
-<p align="center"> ![visitors](https://visitor-badge.glitch.me/badge?page_id=MichelleMcConville.MichelleMcConville) </p>
+📧 Hw to reach out to me [**eMail**](mailto:dev.mchel@gmail.com)
+:octocat: Check out more of my work on [**GitHub**](https://github.com/MichelleMcConville)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=MichelleMcConville.MichelleMcConville)
 
 <hr/>
 <h3 align="center">Languages and Tools:</h3>
@@ -45,6 +45,7 @@
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=MichelleMcConville&theme=juicyfresh&margin-w=7&column=7" /></a> </p>
   
 <hr/>
+<p align="center"> 
 <a href="https://michellemcconville.github.io/">
   <img height="137px" src="https://github-readme-stats.vercel.app/api?username=MichelleMcConville&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
-  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichelleMcConville&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
+  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichelleMcConville&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a> </p>
