@@ -1,8 +1,8 @@
 <h1 align="center"> Hi there 👋, I'm Michelle McConville </h1>
 <h3 align="center">Front-End developer</h3>
 
-* 📧 Hw to reach out to me [**eMail**](mailto:dev.mchel@gmail.com) me
-* :octocat: Check out more of my work on [**GitHub**](https://github.com/MichelleMcConville)
+<p align="center"> 📧 Hw to reach out to me [**eMail**](mailto:dev.mchel@gmail.com) me
+<p align="center"> :octocat: Check out more of my work on [**GitHub**](https://github.com/MichelleMcConville)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=MichelleMcConville.MichelleMcConville)
 
 <hr/>
