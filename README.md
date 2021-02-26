@@ -1,11 +1,11 @@
 <h1 align="center"> Hi there 👋, I'm Michelle McConville </h1>
-<h3 align="center">Sr QA Engineer turned Full Stack Developer</h3>
+<h3 align="center">Sr QA Engineer turned Full Stack Developer</h3><br />
 
 - 📧 Hw to reach out to me [**eMail**](mailto:dev.mchel@gmail.com)
 - :octocat: Check out more of my work on [**GitHub**](https://github.com/MichelleMcConville)
 
 <hr/>
-<h3 align="center">Languages and Tools:</h3>
+<h2 align="center">Languages and Tools:</h2><br />
 <p align="center"> 
 
 <a href="https://www.w3schools.com/css/" target="_blank"> 
@@ -44,7 +44,23 @@
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=MichelleMcConville&theme=juicyfresh&margin-w=7&column=7" /></a> </p>
   
 <hr/>
-<p align="center"> 
-<a href="https://michellemcconville.github.io/">
-  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=MichelleMcConville&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
-  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichelleMcConville&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a> </p>
+<p align="center">
+[![Michelles's GitHub stats](https://github-readme-stats.vercel.app/api?username=MichelleMcConville)}
+  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=MichelleMcConville&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
+  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichelleMcConville&hide=html&layout=compact&langs_count=7&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a> </p>
+  
+<hr/>
+<h2 align="center">Projects:</h2><br />
+<p align="center">
+<a href="https://github.com/MichelleMcConville/P1-camping-spot-finder">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MichelleMcConville&repo=github-readme-stats&theme=material-tokyonight" />
+</a>    
+<a href="https://github.com/MichelleMcConville/P2-tpoops">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MichelleMcConville&repo=anuraghazra.github.io&theme=material-tokyonight" />
+</a>
+<a href="TBD">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MichelleMcConville&repo=anuraghazra.github.io&theme=material-tokyonight" />
+</a>
