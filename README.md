@@ -52,13 +52,9 @@
 <h2 align="center">Projects:</h2><br />
 <p align="center">
   
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MichelleMcConville&repo=P1-camping-spot-finder)](https://github.com/MichelleMcConville/P2-tpoops)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MichelleMcConville&repo=P1-camping-spot-finder&theme=tokyonight)](https://github.com/MichelleMcConville/P1-camping-spot-finder)
 
-<a href="https://michellemcconville.github.io/P1-camping-spot-finder/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MichelleMcConville&repo=https://github.com/MichelleMcConville/P1-camping-spot-finder&theme=tokyonight" /></a>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MichelleMcConville&repo=P2-tpoops&theme=tokyonight)](https://github.com/MichelleMcConville/P2-tpoops)
 
-<a href="https://mkkp-project2.herokuapp.com/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MichelleMcConville&repo=https://github.com/MichelleMcConville/P2-tpoops&theme=tokyonight" /></a>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MichelleMcConville&repo=TBD&theme=tokyonight)](TBD)
 
-<a href="TBD">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MichelleMcConville&repo=TBD&theme=tokyonight" /></a>
