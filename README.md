@@ -53,9 +53,9 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MichelleMcConville&repo=github-readme-stats&theme=material-tokyonight)]
 (https://github.com/MichelleMcConville/P1-camping-spot-finder)
 <p align="center">
-<a href="https://github.com/MichelleMcConville/P1-camping-spot-finder">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MichelleMcConville&repo=github-readme-stats&theme=material-tokyonight" /></a>    
+<a href="https://michellemcconville.github.io/P1-camping-spot-finder/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MichelleMcConville&repo=MichelleMcConville.github.io&theme=material-tokyonight" /></a>    
 <a href="https://github.com/MichelleMcConville/P2-tpoops">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MichelleMcConville&repo=anuraghazra.github.io&theme=material-tokyonight" /></a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MichelleMcConville&repo=MichelleMcConville.github.io&theme=material-tokyonight" /></a>
 <a href="TBD">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MichelleMcConville&repo=anuraghazra.github.io&theme=material-tokyonight" /></a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MichelleMcConville&repo=MichelleMcConville.github.io&theme=material-tokyonight" /></a>
