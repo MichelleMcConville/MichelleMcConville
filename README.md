@@ -50,12 +50,13 @@
   
 <hr/>
 <h2 align="center">Projects:</h2><br />
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MichelleMcConville&repo=github-readme-stats&theme=material-tokyonight)]
-(https://github.com/MichelleMcConville/P1-camping-spot-finder)
 <p align="center">
+
 <a href="https://michellemcconville.github.io/P1-camping-spot-finder/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MichelleMcConville&repo=MichelleMcConville.github.io&theme=material-tokyonight" /></a>    
-<a href="https://github.com/MichelleMcConville/P2-tpoops">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MichelleMcConville&repo=MichelleMcConville.github.io&theme=material-tokyonight" /></a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MichelleMcConville&repo=https://github.com/MichelleMcConville/P1-camping-spot-finder&theme=tokyonight" /></a>
+
+<a href="https://mkkp-project2.herokuapp.com/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MichelleMcConville&repo=https://github.com/MichelleMcConville/P2-tpoops&theme=tokyonight" /></a>
+
 <a href="TBD">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MichelleMcConville&repo=MichelleMcConville.github.io&theme=material-tokyonight" /></a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MichelleMcConville&repo=TBD&theme=tokyonight" /></a>
