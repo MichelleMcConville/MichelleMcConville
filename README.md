@@ -56,9 +56,10 @@
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
 
 <hr/>
-[![trophy](https://github-profile-trophy.vercel.app/?username=michellemcconville=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+<!--[![trophy](https://github-profile-trophy.vercel.app/?username=michellemcconville=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy) -->
 
 <hr/>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=michellemcconville=ryo-ma&theme=juicyfresh" alt="michellemcconville" /></a> </p>
+  <img src="https://github-profile-trophy.vercel.app/?username=michellemcconville&theme=juicyfresh" alt="michellemcconville" /></a> </p>
+
 <!--<p align="center"> https://github-profile-trophy.vercel.app/?michellemcconville=ryo-ma&theme=juicyfresh </p> -->
