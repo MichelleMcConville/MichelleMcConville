@@ -3,9 +3,7 @@
 
 - 📧 Hw to reach out to me [**eMail**](mailto:dev.mchel@gmail.com)
 - :octocat: Check out more of my work on [**GitHub**](https://github.com/MichelleMcConville)
-<br />
-![Hello visitors](https://visitor-badge.glitch.me/badge?page_id=michellemcconville.michellemcconville)
-![Hello visitors](https://visitor-badge.glitch.me/badge?page_id=jwenjian.jwenjian)
+
 <hr/>
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
