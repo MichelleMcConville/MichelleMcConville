@@ -53,6 +53,4 @@
 
 | ***Project 1*** | ***Project 2*** | ***Project 3*** |
 | :-------------: | :-------------: | :-------------: |
-| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MichelleMcConville&repo=P1-camping-spot-finder&theme=tokyonight)](https://github.com/MichelleMcConville/P1-camping-spot-finder) 
-| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MichelleMcConville&repo=P2-tpoops&theme=tokyonight)](https://github.com/MichelleMcConville/P2-tpoops) 
-| <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MichelleMcConville&repo=TBD&theme=tokyonight)](TBD) | --> </p>
+| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MichelleMcConville&repo=P1-camping-spot-finder&theme=tokyonight)](https://github.com/MichelleMcConville/P1-camping-spot-finder) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MichelleMcConville&repo=P2-tpoops&theme=tokyonight)](https://github.com/MichelleMcConville/P2-tpoops) | (TBD) |
