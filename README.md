@@ -18,7 +18,7 @@
 
 * 📧 Hw to reach out to me [**eMail**](mailto:dev.mchel@gmail.com) me
 * :octocat: Check out more of my work on [**GitHub**](https://github.com/MichelleMcConville)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+<!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
 <hr/>
 <h3 align="center">Languages and Tools:</h3>
@@ -55,4 +55,4 @@
 <a href="https://postman.com" target="_blank"> 
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
 
-<p align="center"> https://github-profile-trophy.vercel.app/?michellemcconville=ryo-ma&theme=juicyfresh </p>
+<!--<p align="center"> https://github-profile-trophy.vercel.app/?michellemcconville=ryo-ma&theme=juicyfresh </p>
