@@ -50,6 +50,8 @@
   
 <hr/>
 <h2 align="center">Projects:</h2><br />
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MichelleMcConville&repo=github-readme-stats&theme=material-tokyonight)]
+(https://github.com/MichelleMcConville/P1-camping-spot-finder)
 <p align="center">
 <a href="https://github.com/MichelleMcConville/P1-camping-spot-finder">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MichelleMcConville&repo=github-readme-stats&theme=material-tokyonight" /></a>    
